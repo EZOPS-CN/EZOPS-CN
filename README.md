@@ -1,8 +1,5 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h1>
 
-<h3 align="center">A passionate fullstack developer</h3>
-<h3 align="center">A cloud native operation and maintenance engineer from china</h3>
-
 <p align="center"><br/>
   <a>
     <img src="https://img.shields.io/badge/tencentqq-blue">
@@ -11,9 +8,12 @@
     <img src="https://img.shields.io/badge/wechat-red">
   </a>
   <a>
-    <img src="https://img.shields.io/badge/gmail-red">
+    <img src="https://img.shields.io/badge/-ezops.cn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezops.cn@gmail.com">
   </a>
 </p>
+
+<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A cloud native operation and maintenance engineer from china</h3>
 
 <img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
