@@ -3,6 +3,18 @@
 <h3 align="center">A passionate fullstack developer</h3>
 <h3 align="center">A cloud native operation and maintenance engineer from china</h3>
 
+<p align="center"><br/>
+  <a>
+    <img src="https://img.shields.io/badge/tencentqq-blue">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/wechat-red">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/gmail-red">
+  </a>
+</p>
+
 <img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 Working about **Kuberntes and Docker**
