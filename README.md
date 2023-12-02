@@ -1,10 +1,27 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
 
-[![QQ Badge](https://img.shields.io/badge/-1214966109-1f883d?style=flat-square&logo=tencentqq&logoColor=white)](1214966109) 
-[![WeChat Badge](https://img.shields.io/badge/-ezopscn-blue?style=flat-square&logo=Wechat&logoColor=white)](ezopscn) 
-[![Gmail Badge](https://img.shields.io/badge/-ezops.cn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezops.cn@gmail.com)](mailto:ezops.cn@gmail.com)
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sachin Verma</h1>
+ <p align="center"><br/>
+   <a href="https://www.linkedin.com/in/sachuverma/">
+    <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
+  </a>
+  
+  <a href="https://www.instagram.com/sachuverma_/">
+    <img src="https://img.shields.io/badge/instagram-sachuverma_-red">
+  </a>
+</p>
 
-<!-- logo 图片 -->
-<div align="center" style="background-color: black;">
-  <img width="30%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
-</div>
+<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2022)</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
+
+
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
+- 🔭 I’m currently working on **vKarma Webapp**
+- 🌱 I’m currently learning ... **Django and React.js**
+- 💬 Ask me about ... **Web Develpoment**
+- 😄 Employement ... **Open for intern opportunities**
+- ⚡ Fun fact ... **Anime**❤
+- 📫 How to reach me **sachinverma53121@gmail.com**
