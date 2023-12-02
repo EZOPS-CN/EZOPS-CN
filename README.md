@@ -5,6 +5,8 @@
 [![QQ Badge](https://img.shields.io/badge/-1214966109?style=flat-square&labelColor=1ca0f1&logo=tencentqq&logoColor=white&link=1214966109)](1214966109) 
 [![WeChat Badge](https://img.shields.io/badge/-ezopscn?style=flat-square&logo=Wechat&logoColor=white&link=ezopscn)](ezopscn) 
 [![Gmail Badge](https://img.shields.io/badge/-ezops.cn@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezops.cn@gmail.com)](mailto:ezops.cn@gmail.com)
+[![WeChat Badge](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)](ezopscn) 
+
 
 I am Harsh Kumar Khatri 😃. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University,Alniya 🏫.I love to explore and learn about new things.
 ## 👯 Communities
