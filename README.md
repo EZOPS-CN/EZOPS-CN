@@ -2,7 +2,7 @@
 
 <p align="center"><br/>
   <a>
-    <img src="https://img.shields.io/badge/-682374468-blue?style=flat-square&logo=tencentqq&logoColor=white">
+    <img src="https://img.shields.io/badge/-682374468-1f883d?style=flat-square&logo=tencentqq&logoColor=white">
   </a>
   <a>
     <img src="https://img.shields.io/badge/-ezopscn-blue?style=flat-square&logo=Wechat&logoColor=white">
@@ -19,6 +19,6 @@
 
 - 🔭 Working about **Kuberntes and Docker**
 - 🌱 Current learning **Golang and React.js**
-- 📫 How to contact me **ezops.cn@gmail.com**
+- 📫 How to contact me **Email: ezops.cn@gmail.com**
 - 💬 How to chat with me **WeChat: ezopscn**
 - ⚡ How to join us **QQ Group: 682374468**
