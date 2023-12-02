@@ -4,7 +4,7 @@
 
 [![QQ Badge](https://img.shields.io/badge/-1214966109?style=flat-square&labelColor=1ca0f1&logo=tencentqq&logoColor=white&link=1214966109)](1214966109) 
 [![WeChat Badge](https://img.shields.io/badge/-ezopscn-1ca0f1?style=flat-square&logo=Wechat&logoColor=white&link=ezopscn)](ezopscn) 
-[![Gmail Badge](https://img.shields.io/badge/-ezops.cn@gmail.com?logo=Gmail&logoColor=white&link=mailto:ezops.cn@gmail.com)](mailto:ezops.cn@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ezops.cn@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:ezops.cn@gmail.com)](mailto:ezops.cn@gmail.com)
 [![WeChat Badge](https://img.shields.io/badge/-gitlab-blue?style=flat-square&logo=gitlab&logoColor=white)](ezopscn) 
 
 
