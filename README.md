@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![QQ Badge](https://img.shields.io/badge/-1214966109-006633?style=flat-square&logo=tencentqq&logoColor=white&link=1214966109)](1214966109) 
+[![QQ Badge](https://img.shields.io/badge/-1214966109-1f883d?style=flat-square&logo=tencentqq&logoColor=white&link=1214966109)](1214966109) 
 [![WeChat Badge](https://img.shields.io/badge/-ezopscn-blue?style=flat-square&logo=Wechat&logoColor=white&link=ezopscn)](ezopscn) 
 [![Gmail Badge](https://img.shields.io/badge/-ezops.cn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezops.cn@gmail.com)](mailto:ezops.cn@gmail.com)
 
