@@ -8,6 +8,7 @@
 
 互联网小厂不知名运维工程师，即将 35 的临期退休人员 🐱‍🐉，主要关注 ⚡：
 
-- 🐋 CloudNative / Docker / Containerd / Kubernetes
-- 🎯 CI/CD
-- 🔔 Monitor / Alert
+- 🐋 云原生：Docker / Containerd / Kubernetes
+- 🎯 CI/CD：Gitlab / Jenkins
+- 🔔 监控告警：Zabbix / Prometheus / Grafana / ELK Stack
+- 🐒 Code：Golang / React / Python / Shell
