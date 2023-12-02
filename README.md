@@ -2,13 +2,10 @@
 
 <h3 align="center">A passionate fullstack developer</h3>
 <h3 align="center">A cloud native operation and maintenance engineer from china</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on **vKarma Webapp**
-- 🌱 I’m currently learning ... **Django and React.js**
-- 💬 Ask me about ... **Web Develpoment**
-- 😄 Employement ... **Open for intern opportunities**
-- ⚡ Fun fact ... **Anime**❤
-- 📫 How to reach me **sachinverma53121@gmail.com**
+- 🔭 I’m working about **Kuberntes and Docker**
+- 🌱 I’m currently learning ... **Golang and React.js**
+- 📫 How to contact me **ezops.cn@gmail.com**
+- 💬 How to chat with me **WeChat: ezopscn**
