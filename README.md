@@ -9,3 +9,5 @@
 ## ⚡ About Me
 
 互联网小厂不知名云原生运维工程师，即将 35 的临期退休人员 ⚡!
+
+![EZOPS-CN's github stats](https://github-readme-stats.vercel.app/api?username=EZOPS-CN&hide=["issues"]&show_icons=true)
