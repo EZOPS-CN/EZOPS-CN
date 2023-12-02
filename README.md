@@ -8,8 +8,7 @@
 
 互联网小厂不知名运维工程师，即将 35 的临期退休人员 🐱‍🐉
 
-## ⚡ 最近的想法
+## ⚡ 关注
 - 🌼 CloudNative / Docker / Containerd / Kubernetes
 - 🎯 CI/CD
 - 🔔 Monitor / Alert
-- ⚡ All in one
