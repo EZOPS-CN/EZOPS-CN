@@ -5,9 +5,8 @@
 
 <img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m working about **Kuberntes and Docker**
-- 🌱 I’m currently learning **Golang and React.js**
-- ⚡ Interested in **code and game**
+- 🔭 Working about **Kuberntes and Docker**
+- 🌱 Current learning **Golang and React.js**
 - 📫 How to contact me **ezops.cn@gmail.com**
 - 💬 How to chat with me **WeChat: ezopscn**
-- 😄 How to join us **QQ Group: 682374468**
+- ⚡ How to join us **QQ Group: 682374468**
