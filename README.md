@@ -8,10 +8,8 @@
 
 互联网小厂不知名运维工程师，即将 35 的临期退休人员 🐱‍🐉
 
-## ⚡ Technologies
-Talk to me about
-- 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [Harsh Blog](https://harshblog.xyz)
-- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html)
-- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw)
-- ⚡ Fun fact: Internet users blink less than usual.
+## ⚡ 最近的想法
+- 🌼 CloudNative / Docker / Containerd / Kubernetes
+- 🎯 CI/CD
+- 🔔 Monitor / Alert
+- ⚡ All in one
