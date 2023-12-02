@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/tencentqq-blue">
   </a>
   <a>
-    <img src="https://img.shields.io/badge/wechat-red">
+    <img src="https://img.shields.io/badge/-ezopscn-blue?style=flat-square&logo=Gmail&logoColor=white">
   </a>
   <a>
     <img src="https://img.shields.io/badge/-ezops.cn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezops.cn@gmail.com">
