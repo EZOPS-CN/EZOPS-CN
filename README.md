@@ -6,9 +6,4 @@
 [![WeChat Badge](https://img.shields.io/badge/-ezopscn-blue?style=flat-square&logo=Wechat&logoColor=white)](ezopscn) 
 [![Gmail Badge](https://img.shields.io/badge/-ezops.cn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezops.cn@gmail.com)](mailto:ezops.cn@gmail.com)
 
-互联网小厂不知名运维工程师，即将 35 的临期退休人员 🐱‍🐉，主要关注 ⚡：
-
-- 🐋 云原生：Docker / Containerd / Kubernetes
-- 🎯 CI/CD：Gitlab / Jenkins
-- 🔔 监控告警：Zabbix / Prometheus / Grafana / ELK Stack
-- 🐒 Code：Golang / React / Python / Shell
+互联网小厂不知名云原生运维工程师，即将 35 的临期退休人员 ⚡!
