@@ -6,8 +6,4 @@
 [![WeChat Badge](https://img.shields.io/badge/-ezopscn-blue?style=flat-square&logo=Wechat&logoColor=white)](ezopscn) 
 [![Gmail Badge](https://img.shields.io/badge/-ezops.cn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezops.cn@gmail.com)](mailto:ezops.cn@gmail.com)
 
-## ⚡ About Me
-
-互联网小厂不知名云原生运维工程师，即将 35 的临期退休人员 ⚡!
-
 ![EZOPS-CN's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EZOPS-CN&theme=dark&hide_border=true)
