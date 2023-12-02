@@ -3,9 +3,8 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![QQ Badge](https://img.shields.io/badge/-1214966109?style=flat-square&labelColor=1ca0f1&logo=tencentqq&logoColor=white&link=1214966109)](1214966109) 
-[![WeChat Badge](https://img.shields.io/badge/-ezopscn-1ca0f1?style=flat-square&logo=Wechat&logoColor=white&link=ezopscn)](ezopscn) 
+[![WeChat Badge](https://img.shields.io/badge/-ezopscn-blue?style=flat-square&logo=Wechat&logoColor=white&link=ezopscn)](ezopscn) 
 [![Gmail Badge](https://img.shields.io/badge/-ezops.cn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezops.cn@gmail.com)](mailto:ezops.cn@gmail.com)
-[![WeChat Badge](https://img.shields.io/badge/-gitlab-blue?style=flat-square&logo=gitlab&logoColor=white)](ezopscn) 
 
 
 I am Harsh Kumar Khatri 😃. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University,Alniya 🏫.I love to explore and learn about new things.
