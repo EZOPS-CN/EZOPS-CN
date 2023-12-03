@@ -14,7 +14,8 @@
 
 <h3 align="center">A cloud native operation and maintenance engineer from china</h3>
 
-<img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<img width="40%" align="right" alt="Github Image" src="https://github.githubassets.com/assets/profile-first-repo-fe2c6ecdd20b.svg" />
 
 - 🔭 Working about **Kuberntes and Docker**
 - 🌱 Current learning **Golang and React.js**
