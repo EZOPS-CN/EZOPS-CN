@@ -12,7 +12,6 @@
   </a>
 </p>
 
-<h3 align="center">A passionate fullstack developer</h3>
 <h3 align="center">A cloud native operation and maintenance engineer from china</h3>
 
 <img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
